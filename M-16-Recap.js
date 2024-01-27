@@ -37,5 +37,7 @@ is__Cse_Student ==>
 
 1. + , - , * , / , %
 2. += , -= , *= , /= , %=
-3. 
+3. isNaN
+4. null
+5. number
 */
